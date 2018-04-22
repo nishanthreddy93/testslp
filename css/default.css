@@ -1,9 +1,5 @@
 /*
-=====================================================================
-*   Zoon v1.0 Default Stylesheet
-*   url: styleshout.com
-*   06-07-2014
-=====================================================================
+
 
 TOC:
 a. Webfonts and Icon fonts
@@ -57,12 +53,7 @@ e. Others
    padding: 0;    
 }
 
-/* ------------------------------------------------------------------
-/* c. Reset
-      Adapted from:
-      Normalize.css - https://github.com/necolas/normalize.css/
-      HTML5 Doctor Reset - html5doctor.com/html-5-reset-stylesheet/
-/* ------------------------------------------------------------------ */
+
 
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
